@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 
 /**
  * @Author xuyang
- * @Email xuyang@prudencemed.com
+ * @Email youtouchyang@sina.com
  * @Date 2018/12/4.
  * @Description
  */

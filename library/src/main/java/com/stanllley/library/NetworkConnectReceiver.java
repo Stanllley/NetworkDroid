@@ -10,7 +10,7 @@ import static android.net.ConnectivityManager.EXTRA_NETWORK_TYPE;
 
 /**
  * @Author xuyang
- * @Email xuyang@prudencemed.com
+ * @Email youtouchyang@sina.com
  * @Date 2018/10/12.
  * @Description
  */

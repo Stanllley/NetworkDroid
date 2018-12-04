@@ -8,7 +8,7 @@ import android.net.NetworkInfo;
 
 /**
  * @Author xuyang
- * @Email xuyang@prudencemed.com
+ * @Email youtouchyang@sina.com
  * @Date 2018/10/11.
  * @Description
  */
